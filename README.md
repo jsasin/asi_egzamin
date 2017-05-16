@@ -5,7 +5,7 @@
 | 2.3.1         | 4.2.7.1         | SQLite - lokalnie<br />PostgreSQL - Heroku | Bootstrap | Redcarpet, Better_Errors, Kaminari      |
 
 
-[Link do aplikacji]()
+[Link do aplikacji](https://asiegzaminn.herokuapp.com)
 
 ### Temat: Broń
 
